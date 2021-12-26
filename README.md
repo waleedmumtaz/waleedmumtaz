@@ -2,7 +2,7 @@
 
 ![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleedmumtaz&count_private=true&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedmumtazcount_private=true)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedmumtaz) -->
 
 <!--
 **waleedmumtaz/waleedmumtaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
