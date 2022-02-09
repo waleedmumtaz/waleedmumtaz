@@ -1,5 +1,6 @@
 ### Hi there, I am Waleed 👋
 I am a Frontend Web Developer with a focus on React, Next.js, and Tailwind CSS.
+Currently trying out Svelte!
 
 ![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleedmumtaz&count_private=true&show_icons=true&theme=github_dark)
 
