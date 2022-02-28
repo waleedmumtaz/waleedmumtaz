@@ -1,4 +1,4 @@
-### Hi there, I am Waleed 👋
+### Hi ther! I am Waleed 👋
 I am a Frontend Web Developer with a focus on React, Next.js, and Tailwind CSS.
 Currently trying out Svelte!
 
