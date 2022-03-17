@@ -9,7 +9,7 @@ Currently trying out Svelte!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1168](https://github.com/tailwindlabs/tailwindcss.com/issues/1168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+1. ❗️ Opened issue [#3725](https://github.com/EddieHubCommunity/support/issues/3725) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 ---
