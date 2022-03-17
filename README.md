@@ -10,6 +10,7 @@ Currently trying out Svelte!
 
 <!-- Recent Activity -->
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1168](https://github.com/tailwindlabs/tailwindcss.com/issues/1168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
 <!--END_SECTION:activity-->
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedmumtaz) -->
