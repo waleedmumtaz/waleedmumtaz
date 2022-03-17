@@ -5,12 +5,12 @@ Currently trying out Svelte!
 ![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleedmumtaz&count_private=true&show_icons=true&theme=github_dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waleedmumtaz&theme=dark)](https://git.io/streak-stats)
 
-## My Latest Blog Posts 👇
+### :writing_hand: My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 - [How To Add Custom Fonts to Your Next.js + Tailwind CSS Project](https://waleedmumtaz.hashnode.dev/add-custom-fonts-nextjs-tailwindcss-ckxht1fa203pjhts1erq1h2er)
 <!-- HASHNODE_BLOG:END -->
 
-<!-- Recent Activity -->
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1168](https://github.com/tailwindlabs/tailwindcss.com/issues/1168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
 <!--END_SECTION:activity-->
