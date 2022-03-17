@@ -6,6 +6,7 @@ Currently trying out Svelte!
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [How To Add Custom Fonts to Your Next.js + Tailwind CSS Project](https://waleedmumtaz.hashnode.dev/add-custom-fonts-nextjs-tailwindcss-ckxht1fa203pjhts1erq1h2er)
 <!-- HASHNODE_BLOG:END -->
 
 <!-- Recent Activity -->
