@@ -4,7 +4,9 @@ Currently trying out Svelte!
 
 ![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleedmumtaz&count_private=true&show_icons=true&theme=github_dark)
 
+<!-- Recent Activity -->
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedmumtaz) -->
 
