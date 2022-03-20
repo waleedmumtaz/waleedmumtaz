@@ -1,8 +1,31 @@
-![](banner-white-1280x640.png)
-
+<!-- ![](banner-white-logo-left-1280x640.png) -->
 # Hey there! I am Waleed 👋
-I am a Frontend Web Developer with a focus on React, Next.js, and Tailwind CSS.
-Currently trying out Svelte!
+## I am a Frontend Web Developer.
+
+---
+
+<!-- Web Stack -->
+### :computer: My Web Stack
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+---
+
+<!-- Other Stack -->
+### :gear: Other Tech
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
 
 <!-- GitHub Stats, Streak, and Contributions Graph -->
 ![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleedmumtaz&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=Waleed's%20GitHub%20Stats)
@@ -23,19 +46,12 @@ Currently trying out Svelte!
 - [How To Add Custom Fonts to Your Next.js + Tailwind CSS Project](https://waleedmumtaz.hashnode.dev/add-custom-fonts-nextjs-tailwindcss-ckxht1fa203pjhts1erq1h2er)
 <!-- HASHNODE_BLOG:END -->
 
+---
+
+<!-- Let's Connect -->
+### :call_me_hand: Let's connect!
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WaleedMumtaaz)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleedmumtaz/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedthedev@gmail.com)
+
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedmumtaz) -->
-
-<!--
-**waleedmumtaz/waleedmumtaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
