@@ -1,3 +1,5 @@
+![](banner-white-1280x640.png)
+
 # Hey there! I am Waleed 👋
 I am a Frontend Web Developer with a focus on React, Next.js, and Tailwind CSS.
 Currently trying out Svelte!
