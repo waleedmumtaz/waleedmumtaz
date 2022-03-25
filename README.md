@@ -1,6 +1,6 @@
 <!-- ![](banner-white-logo-left-1280x640.png) -->
 # Hey there! I am Waleed 👋
-## I am a Frontend Web Developer.
+## I am a Frontend Web Developer :computer:
 
 ---
 
