@@ -46,6 +46,10 @@
 - [How To Add Custom Fonts to Your Next.js + Tailwind CSS Project](https://waleedmumtaz.hashnode.dev/add-custom-fonts-nextjs-tailwindcss-ckxht1fa203pjhts1erq1h2er)
 <!-- HASHNODE_BLOG:END -->
 
+### :writing_hand: My Latest Blog Posts
+<!-- feed start -->
+<!-- feed end -->
+
 ---
 
 <!-- Let's Connect -->
